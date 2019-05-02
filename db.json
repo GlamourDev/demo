@@ -1,9 +1,83 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "books": [{
+    "id": 1,
+    "description": "Effective Java",
+    "author": "Joshua Bloch",
+    "isbn": "978-0134685991",
+    "commentCount": "2"
+  }, {
+    "id": 2,
+    "description": "Java 9 for Programmers",
+    "author": "Harvey Deitel",
+    "isbn": "978-0134777566",
+    "commentCount": "0"
+  }, {
+    "id": 3,
+    "description": "Core Java SE 9",
+    "author": "Cay S. Horstmann",
+    "isbn": "978-0134694726",
+    "commentCount": "12"
+  }, {
+    "id": 4,
+    "description": "Lets play a game",
+    "author": "Henry Loiv",
+    "isbn": "978-0567235991",
+    "commentCount": "42"
+  }, {
+    "id": 5,
+    "description": "Coders at Work",
+    "author": "Peter Norvig",
+    "isbn": "978-0564535991",
+    "commentCount": "12"
+  }, {
+    "id": 6,
+    "description": "Code Complete",
+    "author": "Steve McConnell",
+    "isbn": "978-056345991",
+    "commentCount": "3"
+  }, {
+    "id": 7,
+    "description": "Mythical Man Month",
+    "author": "Frederik Brooks",
+    "isbn": "978-0567845991",
+    "commentCount": "23"
+  }, {
+    "id": 8,
+    "description": "Clean Code",
+    "author": "Rober C. Martin",
+    "isbn": "978-0567845991",
+    "commentCount": "32"
+  }, {
+    "id": 9,
+    "description": "Programming Pearls",
+    "author": "Jon Bentley",
+    "isbn": "978-0566545991",
+    "commentCount": "0"
+  }, {
+    "id": 10,
+    "description": "Soft Skills",
+    "author": "Joshua Bloch",
+    "isbn": "978-0564345991",
+    "commentCount": "0"
+  }, {
+    "id": 11,
+    "description": "Zero Bugs and Program Faster",
+    "author": "Cay S. Horstmann",
+    "isbn": "978-0563435991",
+    "commentCount": "0"
+  }, {
+    "id": 12,
+    "description": "The C Programming Language",
+    "author": "Brian W. Kernighan",
+    "isbn": "978-0567543991",
+    "commentCount": "0"
+  }, {
+    "id": 13,
+    "description": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "isbn": "978-0565433991",
+    "commentCount": "4"
+  }],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
