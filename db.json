@@ -80,7 +80,7 @@
   }],
   "comments": [
     { "id": 1,"timestamp":"12.12.2012","comments":"Very good book" },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {"id": 2,"timestamp":"11.12.2014","comments":"This is really awesome"}
   ],
   "profile": {
     "name": "typicode"
