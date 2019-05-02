@@ -79,7 +79,7 @@
     "commentCount": "4"
   }],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1,"timestamp":"12.12.2012","comments":"Very good book" },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
